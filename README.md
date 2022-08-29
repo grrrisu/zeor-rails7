@@ -20,3 +20,12 @@ create a new one, a new `master.key` will be created as well
 `EDITOR=vim rails credentials:edit`
 
 adapt the file using the `config/credentials_example.yml`
+
+
+## Tutorials
+
+Hotwire https://hotwired.dev/
+
+Page One:
+
+* https://www.bootrails.com/blog/rails-7-hotwire-a-tutorial/
